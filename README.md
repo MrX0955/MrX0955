@@ -95,7 +95,7 @@
 ###
 
 <div align="left">
-  <a href="https://discord.gg/np8ypnuRxD" target="_blank">
+  <a href="cleinkelvinn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="@CleinKelvinn" target="_blank">
