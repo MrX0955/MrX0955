@@ -1,6 +1,6 @@
 <h2 align="center">Nothing To See Here.</h2>
 
-<h2 align="center">Why i shouldn't put these icons here? So, I'll just do it.</h2>
+<h2 align="center">All my projects are education only, don't be illegal.</h2>
 
 ###
 
