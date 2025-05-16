@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 About Me
+### ♟ About Me
 
 ```txt
 > whoami
