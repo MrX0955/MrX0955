@@ -10,7 +10,7 @@
 
 ### ♟ About Me
 
-```txt
+```js
 > whoami
 🧑‍💻 CleinKelvinn | Researcher & Developer
 
