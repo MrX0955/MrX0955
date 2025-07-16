@@ -18,5 +18,5 @@
 Linux-powered mind with a passion for building scalable, secure, and elegant systems.
 
 > echo $INTERESTS
-Cybersecurity, DevTools, Automation, System Design, OSS, DevOps, Full-Stack, Coding
+CyberSec, Automations, Cross-Platform Apps , SaaS, DevOps, Full-Stack, Creativity, QA Testing, Mobile Apps, Problem Solving, Team Adaptation
 ```
