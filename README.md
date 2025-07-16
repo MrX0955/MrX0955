@@ -19,5 +19,5 @@ Linux-powered mind with a passion for building scalable, secure, and elegant sys
 
 > echo $INTERESTS
 CyberSec, Automations, Cross-Platform Apps , SaaS, DevOps, Full-Stack, Creativity, QA Testing, Mobile Apps 
-Problem Solving, Team Adaptation, Basketball, Piano
+Problem Solving, Team Adaptation, Basketball, Piano, Kittys:3
 ```
